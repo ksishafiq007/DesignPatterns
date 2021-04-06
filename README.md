@@ -9,3 +9,6 @@ Types of Design Patterns:
 # Singleton pattern: Singleton pattern is one of the simplest design patterns in Java. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object. The SingleTon pattern is a design pattern that restricts the instantiation of a class to one object.
 
 # Factory method pattern: The factory method pattern is a creational pattern that uses factory methods to deal with the problem of creating objects without having to specify the exact class of the object that will be created.
+
+![image](https://user-images.githubusercontent.com/24381545/113778086-c8ad2b00-974d-11eb-8d18-dd1a67f34ccd.png)
+
