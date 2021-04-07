@@ -15,3 +15,5 @@ Types of Design Patterns:
 ![image](https://user-images.githubusercontent.com/24381545/113778086-c8ad2b00-974d-11eb-8d18-dd1a67f34ccd.png)
 
 # Abstract factory design pattern: Abstract factory patterns work around a super-factory which creates other factories. This factory is also called as factory of factories. This type of design pattern comes under creational pattern as this pattern provides one of the best ways to create an object. The abstract factory pattern provides a way to encapsulate a group of individual factories that have a common theme without specifying their concrete classes.
+
+![image](https://user-images.githubusercontent.com/24381545/113845182-0db97780-97b7-11eb-88bc-b2ae0c6de071.png)
